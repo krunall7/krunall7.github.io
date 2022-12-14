@@ -98,14 +98,29 @@ validation is challenging for me
 - PPt 
 - Class notes
 
-## Name:  KRUNAL PARMAR
+## NAME : KRUNAL PARMAR
+Humber ID: N01539479
 
-Learning and Challenges
+Brief Description of the project:
 
-1. Learned how to align footer and head and combine all the design.
-2. Learned how to use java script
+-> The PYB(Pack Your Bags) website is coded and designed for users to book/schedule trains,buses,flights and hotels.
+-> The project is gone underby HTML, CSS, Java Scripts and Media Queries for make the project attractive and easy to access and read.
+-> All teammembers have coded different pages such as trains, buses, flight and hotels.
+-> Every page has Java script and CSS.
+-> We have Payment page that is carried out after you pass the forms with validations.
+
+Technologies Used:
+-> HTML
+-> CSS
+-> JavaScript
+
+Difficulties faced working on project:
+-> Adjusting CSS of the pages
+-> Merging other member team members pages
+-> Adjusting image size and background texts and colour.
 
 Resources
 
 1. W3 schools website.
 2. In-class samples.
+3. Youtube tutorials
